@@ -1,550 +1,550 @@
-Pupil ID,Gender,Ethnicity,SEN,PP,Math_Mock_1 ,Math_Mock_2 ,Math_Result,English_Mock_1,English_Mock_2,English_Result
-1,Male,White - British,K,T,5,5,5,2,3,2
-2,Female,White - British,N,F,5,5,4,4,5,4
-3,Female,White and Any Other Asian Background,N,F,8,9,9,9,9,8
-4,Female,White - British,N,F,5,4,5,5,6,8
-5,Female,White - British,N,F,2,2,3,3,4,3
-6,Female,White - British,N,F,4,4,3,4,5,5
-7,Female,White - British,N,T,5,5,5,6,6,5
-8,Female,White - British,N,F,6,7,8,8,9,7
-9,Female,White - British,N,T,3,4,4,2,4,4
-10,Female,White Other,N,F,4,4,4,4,5,6
-11,Female,White - British,N,F,4,4,4,4,4,5
-12,Female,White - British,N,T,5,4,4,6,8,5
-13,Male,White - British,K,T,1,1,1,2,3,3
-14,Female,White - British,K,T,2,3,2,3,4,3
-15,Female,White - British,N,T,4,4,4,2,4,4
-16,Female,Black Caribbean,K,T,6,6,6,5,6,4
-17,Female,White - British,K,T,1,2,2,3,4,3
-18,Female,White - British,N,T,4,3,3,4,4,4
-19,Female,White - British,N,F,7,7,7,5,7,7
-20,Male,White - British,K,T,5,5,5,3,4,5
-21,Male,White - British,N,F,4,4,5,3,3,6
-22,Male,White - British,N,F,3,3,3,3,3,5
-23,Female,White - British,N,T,4,4,4,3,4,3
-24,Female,White - British,K,F,4,4,5,5,5,6
-25,Female,White - British,N,F,7,7,7,6,8,7
-26,Male,White - British,N,T,6,6,6,4,5,5
-27,Male,White - British,K,T,1,1,2,2,2,2
-28,Male,White - British,N,F,6,6,7,5,6,7
-29,Female,White - British,N,F,4,4,4,4,4,4
-30,Female,White - British,N,T,7,6,6,7,5,6
-31,Female,White - British,N,T,6,6,5,7,7,7
-32,Male,White - British,N,F,8,8,8,4,6,6
-33,Female,White - British,N,T,4,4,5,3,6,5
-34,Female,White - British,N,T,3,3,4,4,3,2
-35,Female,White - British,N,T,3,3,4,1,4,3
-36,Female,White and Asian,N,T,7,7,7,7,9,5
-37,Male,White - British,N,F,7,8,8,5,4,6
-38,Male,White - British,K,F,1,1,2,2,1,3
-39,Female,White - British,N,T,3,2,3,3,6,4
-40,Male,White and Black African,K,F,7,5,7,6,7,7
-41,Female,White - British,N,F,7,8,8,6,8,7
-42,Female,White - British,N,F,4,4,4,6,5,6
-43,Male,White - British,K,T,1,1,1,2,1,3
-44,Male,Information Not Yet Obtained,N,T,4,4,4,2,3,1
-45,Male,White - British,N,F,4,2,3,2,3,3
-46,Female,Information Not Yet Obtained,N,T,2,3,3,3,4,4
-47,Male,White - British,N,T,6,6,6,5,4,4
-48,Female,Black - African,N,T,4,4,4,5,5,5
-49,Male,White - British,N,F,7,8,8,6,6,7
-50,Male,White - British,K,T,5,4,6,5,5,4
-51,Male,White - British,N,F,3,5,4,3,3,3
-52,Male,White - British,K,T,5,5,5,3,4,6
-53,Female,White - British,N,F,7,7,7,6,7,5
-54,Male,White - British,K,F,2,3,2,3,4,3
-55,Female,White - British,K,F,6,6,6,3,4,5
-56,Male,White - British,N,T,5,5,5,4,4,4
-57,Female,Any Other Asian Background,N,T,6,5,6,7,5,6
-58,Male,White - British,N,F,4,4,4,3,5,5
-59,Male,White - British,N,T,4,1,4,2,2,1
-60,Male,White - British,N,T,1,1,2,2,2,3
-61,Female,White - British,N,F,5,4,5,3,3,3
-62,Male,White - British,N,T,5,5,5,4,5,5
-63,Male,White - British,N,T,3,4,3,2,3,3
-64,Male,Any Other White Background,K,F,4,5,5,3,6,4
-65,Male,White - British,E,F,6,6,6,5,5,3
-66,Female,White - British,K,T,1,1,1,3,3,3
-67,Female,White - British,N,T,3,4,4,3,4,4
-68,Male,White - British,N,T,7,7,8,4,5,5
-69,Female,White - British,N,T,3,3,3,2,3,1
-70,Female,White - British,K,T,2,3,3,3,3,3
-71,Male,White - British,N,F,7,7,8,6,6,7
-72,Male,White - British,N,F,6,8,7,7,6,6
-73,Male,White - British,N,T,1,1,1,1,2,1
-74,Male,White - British,N,F,5,5,5,3,4,3
-75,Male,White - British,N,F,5,5,6,2,5,5
-76,Female,White - British,K,F,4,2,3,6,6,5
-77,Male,White - British,N,F,7,7,8,7,8,5
-78,Female,White - British,N,F,2,3,3,4,4,5
-79,Female,White - British,N,T,3,3,3,3,4,5
-80,Female,White - British,N,F,2,2,2,3,3,3
-81,Male,White - British,N,T,4,4,4,2,2,3
-82,Female,White - British,N,F,7,8,8,6,7,5
-83,Female,White - British,N,F,3,4,4,2,4,4
-84,Female,White - British,N,T,2,3,2,2,3,2
-85,Female,White - British,N,T,3,4,4,3,4,4
-86,Female,White - British,K,T,1,1,1,3,2,3
-87,Female,White - British,N,F,4,5,4,4,4,5
-88,Female,White - British,N,F,5,5,5,5,4,5
-89,Female,White - British,K,T,4,5,5,5,5,5
-90,Male,White - British,N,T,6,7,7,5,5,5
-91,Male,White - British,N,F,5,6,6,6,6,5
-92,Male,Information Not Yet Obtained,E,F,2,2,2,2,3,2
-93,Female,White - British,N,T,5,6,5,7,6,5
-94,Female,White - British,N,F,5,5,5,5,4,5
-95,Male,White - British,N,T,4,5,5,4,3,3
-96,Female,White - British,N,T,4,4,5,4,3,5
-97,Female,White - British,N,T,4,5,4,4,4,5
-98,Male,White - British,N,F,5,5,5,3,5,5
-99,Male,White - British,N,F,3,3,3,3,3,4
-100,Female,White - British,N,T,3,4,4,4,3,4
-101,Female,White - British,N,T,2,3,3,4,5,5
-102,Male,Any Other Mixed Background,N,T,5,7,8,5,6,6
-103,Female,Information Not Yet Obtained,N,T,2,1,2,2,3,4
-104,Male,White - British,N,F,5,6,6,5,5,5
-105,Male,White - British,N,F,6,6,6,4,5,4
-106,Male,White - British,N,T,4,6,8,4,5,5
-107,Male,White - British,N,T,4,4,4,3,3,3
-108,Female,White - British,N,T,4,4,2,5,3,5
-109,Female,White - British,N,F,5,6,6,5,4,4
-110,Male,White - British,N,T,6,7,7,9,9,9
-111,Female,White - British,K,F,3,2,2,3,2,3
-112,Male,White Other,N,F,3,3,3,3,2,3
-113,Male,White - British,N,T,7,7,8,9,9,9
-114,Female,White - British,N,F,7,7,7,7,6,6
-115,Male,White - British,N,F,5,6,7,5,6,6
-116,Male,White - British,N,T,7,8,8,6,8,5
-117,Female,White - British,N,F,5,5,5,4,5,5
-118,Male,White - British,N,F,5,5,5,6,6,6
-119,Female,White - British,N,T,4,5,5,5,4,5
-120,Female,White - British,N,F,1,2,1,2,2,3
-121,Female,White - British,K,F,4,4,4,2,3,3
-122,Male,Any Other Asian Background,K,F,3,4,3,4,4,4
-123,Male,White - British,N,F,4,5,4,3,3,4
-124,Female,White - British,N,F,3,4,4,3,6,5
-125,Female,White - British,N,T,1,1,2,2,3,1
-126,Female,White - British,N,F,4,3,4,5,5,5
-127,Male,White - British,K,T,2,1,2,2,3,4
-128,Male,White - British,N,F,4,5,4,1,1,1
-129,Female,White - British,N,T,5,6,6,6,7,6
-130,Female,White - British,N,F,2,3,3,2,3,3
-131,Female,White - British,N,F,6,6,6,6,6,6
-132,Male,White - British,N,T,4,4,4,2,3,3
-133,Female,White - British,K,T,8,9,9,8,9,8
-134,Male,White and Black African,N,F,6,6,6,8,8,9
-135,Male,White - British,N,F,4,5,5,5,6,5
-136,Male,White - British,N,F,6,6,7,6,6,6
-137,Female,White - British,N,F,5,6,6,5,5,5
-138,Female,White - British,N,F,5,5,5,3,6,5
-139,Male,White - British,N,F,6,7,7,7,7,5
-140,Male,White - British,N,T,4,5,4,4,3,6
-141,Female,White - British,N,T,4,4,4,3,5,5
-142,Female,White - British,N,T,4,5,5,3,2,4
-143,Female,White - British,N,T,2,2,3,3,3,4
-144,Male,White - British,N,F,6,7,7,7,8,7
-145,Male,White - British,N,F,4,4,3,3,3,3
-146,Female,White - British,N,T,6,7,7,6,7,5
-147,Male,White - British,N,F,6,7,7,5,3,4
-148,Female,Information Not Yet Obtained,N,T,7,8,8,9,8,7
-149,Male,White - British,N,T,7,7,8,5,6,6
-150,Male,White - British,N,T,4,4,3,3,4,3
-151,Male,White - British,N,T,4,3,3,5,5,4
-152,Female,White - British,N,T,6,6,6,7,7,5
-153,Female,White - British,N,T,7,7,7,6,6,5
-154,Male,White - British,K,F,2,2,2,1,3,4
-155,Female,White - British,N,F,6,6,7,7,8,6
-156,Male,White - British,N,F,4,6,5,5,4,6
-157,Female,White - British,N,F,5,6,5,6,7,6
-158,Male,White - British,N,F,7,8,8,6,7,6
-159,Female,White - British,K,T,5,4,4,2,2,2
-160,Female,White - British,N,T,5,6,6,6,7,6
-161,Male,White - British,N,T,6,6,6,4,5,4
-162,Female,White - British,N,T,3,1,3,4,4,4
-163,Male,White - British,N,F,5,5,5,3,4,4
-164,Female,Information Not Yet Obtained,K,T,1,1,1,3,2,3
-165,Male,White - British,N,F,6,6,7,6,7,5
-166,Female,White - British,N,F,2,1,2,3,4,4
-167,Male,White - British,N,T,4,5,4,4,4,5
-168,Male,White - British,N,F,7,7,8,9,8,6
-169,Female,White - British,N,T,5,6,5,5,5,7
-170,Female,Information Not Yet Obtained,N,T,5,5,4,8,6,7
-171,Male,White - British,K,T,3,4,4,2,2,2
-172,Male,White and Black African,N,T,6,6,7,7,6,7
-173,Female,White - British,N,T,3,4,4,7,7,7
-174,Male,Black - African,N,F,5,5,5,5,4,5
-175,Female,White - British,N,F,3,4,5,6,6,6
-176,Male,White and Black Caribbean,N,F,3,4,4,3,4,4
-177,Male,White - British,N,F,3,4,4,3,4,4
-178,Female,White - British,N,T,7,8,8,8,8,8
-179,Female,White - British,N,T,4,5,5,6,6,7
-180,Female,White - British,N,F,2,3,3,3,3,4
-181,Male,White - British,N,T,1,2,2,1,2,2
-182,Female,White - British,N,T,3,4,4,2,3,4
-183,Male,White - British,K,T,1,2,2,1,2,1
-184,Female,White - British,N,T,3,4,3,1,3,3
-185,Male,White - British,N,T,4,5,5,3,4,4
-186,Male,White - British,K,T,4,5,5,3,4,3
-187,Female,White - British,N,F,5,5,5,6,6,6
-188,Male,White - British,N,T,3,4,4,6,6,6
-189,Female,White - British,N,T,1,2,1,2,2,2
-190,Female,White - British,N,T,6,7,7,8,7,7
-191,Female,White - British,K,F,2,3,4,3,4,4
-192,Male,White - British,N,T,4,4,4,2,3,2
-193,Male,White - British,N,F,2,3,3,2,2,2
-194,Female,White - British,N,F,2,3,3,4,4,5
-195,Female,White - British,N,F,3,4,4,5,4,4
-196,Female,White - British,N,T,2,3,3,2,2,2
-197,Female,White - British,N,T,4,4,4,3,4,4
-198,Female,Any Other White Background,N,F,7,8,8,4,4,5
-199,Female,White - British,N,F,5,5,5,7,7,7
-200,Female,White - British,N,T,5,5,5,4,4,5
-201,Male,White - British,K,T,4,5,5,5,4,5
-202,Male,White - British,N,T,5,5,5,6,6,6
-203,Male,White - British,N,F,5,5,5,5,5,5
-204,Female,Any Other White Background,N,F,4,5,5,6,6,6
-205,Male,White - British,N,F,2,3,2,3,4,4
-206,Male,White - British,N,T,4,5,5,8,7,7
-207,Male,White - British,K,F,2,3,3,3,4,4
-208,Female,White - British,N,T,1,2,3,1,3,3
-209,Male,White - British,N,T,2,3,3,2,2,3
-210,Male,White - British,N,T,5,5,5,4,5,5
-211,Female,White - British,N,F,7,8,8,5,7,7
-212,Female,White - British,N,T,5,5,5,7,7,7
-213,Female,White - British,N,T,7,7,7,6,6,6
-214,Female,White - British,N,T,2,3,4,5,6,5
-215,Male,White - British,N,T,3,4,4,4,4,5
-216,Female,White - British,E,T,2,3,3,4,4,4
-217,Male,White - British,K,T,3,3,5,3,3,4
-218,Male,White - British,N,F,6,7,7,5,5,6
-219,Male,White - British,N,T,5,6,6,9,8,8
-220,Female,White - British,N,T,4,5,5,5,6,7
-221,Male,White - British,N,F,4,4,5,3,4,4
-222,Male,White - British,N,F,5,5,5,4,5,4
-223,Female,White - British,N,F,5,5,5,5,5,5
-224,Female,White - British,N,F,6,6,7,9,8,9
-225,Female,White - British,N,T,4,5,5,3,4,4
-226,Male,White and Black Caribbean,N,F,5,6,6,4,4,4
-227,Female,White - British,N,F,6,7,7,8,8,9
-228,Female,White - British,N,F,3,5,4,3,4,4
-229,Male,White - British,N,F,6,7,7,8,8,9
-230,Female,Any Other White Background,N,F,3,4,3,3,4,1
-231,Male,White - British,N,T,1,2,2,3,3,3
-232,Female,White - British,N,F,3,4,4,4,4,5
-233,Female,White Other,N,F,6,6,6,6,6,6
-234,Female,White and Black African,N,F,4,5,5,4,4,5
-235,Female,White - British,N,F,5,5,5,5,6,6
-236,Male,White - British,K,F,2,3,3,2,3,2
-237,Male,White - British,N,F,5,5,5,7,7,7
-238,Male,White - British,N,F,3,4,4,3,4,4
-239,Female,White - British,N,F,3,4,4,6,6,6
-240,Male,White - British,E,T,4,5,3,5,5,4
-241,Female,Black - African,N,T,4,5,5,3,5,6
-242,Male,White - British,N,T,7,7,8,5,5,6
-243,Female,White - British,N,T,4,5,5,5,5,6
-244,Male,White - British,N,F,5,5,5,3,4,5
-245,Male,White - British,N,F,6,6,7,6,6,6
-246,Male,White - British,N,T,2,3,3,3,3,3
-247,Male,White - British,N,T,4,4,4,3,4,4
-248,Female,White - British,N,T,5,6,6,4,5,5
-249,Female,White - British,N,F,2,3,3,3,3,3
-250,Male,White - British,N,F,4,5,5,5,5,5
-251,Male,White - British,N,F,5,5,5,8,8,8
-252,Male,White - British,N,F,6,7,6,7,7,7
-253,Female,White - British,N,F,3,4,4,3,4,4
-254,Male,White - British,N,F,3,4,3,2,2,3
-255,Male,White - British,N,T,5,6,6,6,7,7
-256,Male,White - British,N,T,5,5,5,6,6,6
-257,Male,White - British,N,F,2,3,3,3,4,3
-258,Male,White - British,N,T,2,3,3,3,4,4
-259,Male,White - British,N,T,4,5,5,4,5,5
-260,Male,White - British,E,T,6,6,6,5,5,6
-261,Female,White - British,N,F,4,5,5,3,3,4
-262,Female,White - British,N,F,3,4,4,3,3,3
-263,Female,White - British,N,F,6,7,7,9,8,9
-264,Male,Information Not Yet Obtained,N,F,2,3,3,2,2,2
-265,Male,White - British,N,F,7,7,7,4,5,6
-266,Female,White - British,N,T,3,3,4,2,4,3
-267,Female,White - British,N,F,7,7,7,7,7,7
-268,Female,White - British,N,F,6,6,6,7,7,7
-269,Male,Refused,N,F,2,3,2,2,3,1
-270,Female,White - British,N,F,3,4,4,4,4,4
-271,Female,White - British,N,T,2,3,4,4,4,4
-272,Female,White - British,N,T,3,4,4,3,4,5
-273,Female,White - British,N,T,3,4,4,2,3,3
-274,Female,Information Not Yet Obtained,N,T,5,5,5,4,4,5
-275,Male,Any Other White Background,N,T,5,3,5,3,3,3
-276,Male,White - British,N,T,6,5,6,6,5,6
-277,Male,Any Other White Background,N,F,4,2,5,3,3,4
-278,Male,White - British,N,F,3,2,4,3,3,3
-279,Female,White - British,N,F,2,1,2,4,3,3
-280,Female,White - British,N,T,4,2,4,4,4,4
-281,Male,Turkish,N,F,5,3,5,5,5,5
-282,Female,White and Black African,N,T,3,2,4,4,3,3
-283,Male,White - British,N,F,4,3,5,3,2,3
-284,Male,White - British,K,F,1,1,3,1,1,3
-285,Male,White - British,N,F,5,3,5,4,3,4
-286,Male,White - British,N,F,4,2,3,3,3,3
-287,Male,White - British,K,F,2,1,3,3,2,3
-288,Female,White - British,N,T,8,7,8,8,7,7
-289,Male,White - British,N,F,5,3,4,3,3,3
-290,Female,White - British,N,F,5,3,5,6,6,6
-291,Female,White - British,N,F,3,2,4,5,5,5
-292,Female,White - British,N,F,4,2,5,4,3,4
-293,Female,White - British,N,T,6,5,6,7,6,6
-294,Male,White - British,N,F,5,3,5,5,5,5
-295,Female,White - British,K,T,1,1,1,3,3,3
-296,Male,White - British,N,T,2,1,2,4,3,3
-297,Female,White - British,K,T,2,1,2,3,3,3
-298,Female,Any Other White Background,N,T,7,6,9,7,6,6
-299,Male,White - British,N,F,5,3,5,5,5,5
-300,Female,Information Not Yet Obtained,N,T,2,1,2,4,3,3
-301,Female,White and Black African,K,F,2,1,2,4,4,5
-302,Female,White - British,N,F,5,3,5,3,3,4
-303,Male,White - British,N,T,5,3,5,4,3,3
-304,Male,White - British,N,T,4,2,4,4,5,5
-305,Female,Information Not Yet Obtained,N,F,4,2,4,5,5,6
-306,Female,White - British,N,F,3,2,5,4,3,5
-307,Female,White - British,N,F,3,2,3,5,5,5
-308,Female,White - British,N,F,3,2,4,5,4,5
-309,Female,White - British,N,T,3,2,3,4,3,3
-310,Male,White - British,N,T,6,5,7,6,5,5
-311,Male,White - British,N,F,4,2,4,3,3,3
-312,Male,White - British,N,F,9,9,9,8,8,9
-313,Male,White - British,N,F,3,2,2,3,2,2
-314,Male,White - British,N,F,3,2,4,4,4,4
-315,Male,White - British,N,F,5,4,6,7,6,7
-316,Male,White - British,N,F,3,2,4,8,6,8
-317,Female,White - British,N,F,4,2,4,4,4,6
-318,Female,White - British,N,T,8,8,9,8,7,9
-319,Male,White - British,N,F,4,2,4,3,2,2
-320,Female,White - British,N,F,7,6,9,8,7,7
-321,Male,Any Other White Background,N,F,2,1,1,2,2,2
-322,Male,Information Not Yet Obtained,N,F,3,1,3,4,3,3
-323,Male,White - British,N,T,5,3,5,4,4,5
-324,Female,White - British,K,T,2,1,1,3,4,4
-325,Female,White - British,N,F,4,2,5,5,6,6
-326,Female,White - British,N,T,3,2,4,4,4,5
-327,Female,White - British,N,T,5,4,6,6,5,6
-328,Female,White - British,N,F,3,1,3,5,4,6
-329,Female,White - British,N,F,3,2,4,4,3,3
-330,Male,White - British,N,T,8,7,9,7,6,7
-331,Female,White European,N,F,3,1,3,3,3,4
-332,Female,White - British,N,F,5,4,5,5,5,5
-333,Male,White - British,N,F,4,3,5,6,6,6
-334,Male,White - British,N,T,6,5,7,5,5,5
-335,Male,White - British,N,T,4,3,5,4,4,4
-336,Female,White - British,N,F,7,5,7,7,5,6
-337,Female,Any Other Asian Background,N,T,6,5,6,8,7,7
-338,Female,White - British,N,F,3,2,3,4,3,3
-339,Female,White - British,E,F,5,4,5,5,6,6
-340,Male,White - British,N,F,9,8,9,8,7,8
-341,Female,White and Black African,N,T,3,2,3,5,5,5
-342,Male,White - British,N,T,7,6,7,7,7,7
-343,Female,White - British,N,F,3,2,4,4,4,6
-344,Male,White - British,N,T,5,3,5,4,3,3
-345,Female,White - British,N,F,5,3,5,5,5,5
-346,Female,White - British,N,T,8,7,8,8,7,7
-347,Female,Information Not Yet Obtained,N,T,5,3,4,5,6,6
-348,Male,White - British,N,F,6,5,6,5,5,5
-349,Female,White - British,N,F,6,5,7,7,6,7
-350,Female,White - British,N,F,4,2,4,4,4,4
-351,Male,White - British,K,F,3,2,3,4,4,3
-352,Male,Any Other Mixed Background,N,F,4,3,5,5,4,4
-353,Female,White - British,N,F,7,6,7,6,7,8
-354,Male,White - British,N,F,6,5,6,6,6,6
-355,Female,White - British,N,T,2,1,3,3,2,2
-356,Female,White - British,N,T,3,2,3,4,3,3
-357,Female,White - British,N,F,4,2,4,4,4,4
-358,Male,White - British,N,F,7,5,8,5,5,5
-359,Female,White - British,N,F,5,3,5,4,4,5
-360,Female,White - British,N,T,4,3,5,5,4,6
-361,Male,White - British,K,T,3,2,3,4,2,3
-362,Male,White - British,N,F,4,2,5,5,4,4
-363,Female,White - British,N,T,8,7,9,7,6,7
-364,Male,White - British,N,T,5,3,5,3,2,3
-365,Female,White - British,N,F,5,3,5,8,7,8
-366,Male,White - British,N,T,5,4,5,5,5,5
-367,Female,White - British,N,F,3,1,3,4,4,5
-368,Female,White - British,N,T,2,1,2,4,3,3
-369,Male,White - British,N,F,7,6,7,5,4,5
-370,Male,Information Not Yet Obtained,N,F,3,1,2,4,4,3
-371,Male,White - British,N,F,4,3,5,4,3,4
-372,Male,White - British,N,F,8,7,9,6,6,8
-373,Female,White - British,N,T,3,1,3,4,4,4
-374,Male,White - British,N,F,3,2,3,4,3,4
-375,Male,White - British,N,T,5,3,5,5,4,5
-376,Male,Any Other Mixed Background,N,T,7,6,8,6,6,7
-377,Female,Any Other Mixed Background,N,T,3,3,2,4,4,4
-378,Male,Refused,N,T,5,5,4,5,5,4
-379,Female,White - British,N,T,5,5,5,6,5,5
-380,Female,White - British,N,T,3,2,3,4,4,4
-381,Female,White - British,N,T,5,5,4,6,5,6
-382,Female,White - British,N,F,4,4,4,5,4,5
-383,Female,White - British,N,T,5,4,4,5,4,3
-384,Male,White - British,N,F,5,5,5,5,4,4
-385,Male,White - British,N,F,2,1,1,2,2,2
-386,Female,White - British,N,T,3,2,3,4,4,3
-387,Male,White - British,N,T,4,1,1,5,1,1
-388,Female,White - British,N,F,5,5,5,5,5,4
-389,Female,White - British,K,T,4,1,2,5,1,2
-390,Male,White - British,N,T,3,2,2,4,2,2
-391,Male,White - British,N,T,5,3,3,6,4,2
-392,Female,White - British,K,T,4,1,1,5,1,1
-393,Male,White - British,N,F,4,3,3,4,3,3
-394,Male,White - British,N,T,6,7,7,6,7,7
-395,Male,White - British,N,F,6,5,5,7,5,5
-396,Male,White - British,N,F,6,6,7,7,8,8
-397,Female,White - British,N,T,7,5,4,6,5,7
-398,Male,White - British,N,T,5,7,7,6,6,6
-399,Female,White - British,N,F,4,5,4,5,7,6
-400,Male,White - British,N,F,4,3,4,5,3,3
-401,Female,White - British,N,T,4,2,1,5,2,2
-402,Male,White - British,N,T,4,4,4,5,4,4
-403,Male,White - British,N,F,6,5,5,6,5,5
-404,Male,White - British,N,F,6,6,6,7,5,5
-405,Female,White - British,N,F,4,1,1,5,3,2
-406,Female,White - British,N,F,4,2,1,5,4,5
-407,Male,Any Other White Background,N,T,6,8,8,6,9,9
-408,Male,White - British,K,T,4,3,3,5,2,2
-409,Female,White - British,E,T,2,1,2,2,3,3
-410,Female,White - British,N,T,5,5,5,5,6,7
-411,Female,White - British,N,F,6,5,5,6,6,5
-412,Male,White - British,N,T,4,3,4,5,3,3
-413,Male,White - British,N,F,7,7,7,7,7,7
-414,Female,White - British,N,F,6,4,4,6,5,4
-415,Male,White - British,K,T,4,4,4,5,4,4
-416,Male,White - British,N,T,4,4,5,5,3,3
-417,Male,White - British,K,T,3,1,1,4,3,2
-418,Male,Information Not Yet Obtained,N,F,4,4,4,6,6,5
-419,Female,White - British,N,F,4,4,3,5,4,3
-420,Female,White - British,N,F,4,3,2,5,3,2
-421,Male,White - British,N,F,3,2,2,4,2,1
-422,Female,White - British,N,T,4,2,2,5,2,3
-423,Male,White - British,N,F,4,5,4,5,3,3
-424,Female,White - British,N,F,3,2,1,4,3,3
-425,Male,White - British,N,F,6,7,7,7,7,7
-426,Female,White - British,N,T,7,7,6,7,7,7
-427,Male,White and Black Caribbean,N,T,5,4,4,6,5,5
-428,Male,White - British,N,F,4,3,3,5,2,3
-429,Female,White - British,N,T,4,4,4,5,5,6
-430,Male,White - British,N,T,4,2,1,5,3,4
-431,Male,White - British,N,T,4,4,4,5,3,4
-432,Male,White - British,N,F,4,5,4,5,4,2
-433,Female,White - British,N,F,6,4,5,6,7,6
-434,Male,White - British,N,F,6,5,5,7,7,5
-435,Female,White - British,N,F,4,4,5,5,5,5
-436,Female,White - British,N,T,4,4,4,5,5,6
-437,Female,White - British,N,T,6,5,5,7,6,5
-438,Male,White - British,N,T,4,5,4,5,5,4
-439,Female,White - British,N,T,4,3,3,5,4,3
-440,Female,Information Not Yet Obtained,N,T,4,3,3,5,5,3
-441,Female,White - British,N,F,5,3,2,5,4,3
-442,Female,White - British,N,T,5,5,5,6,6,4
-443,Male,White - British,N,T,3,1,1,4,2,1
-444,Male,White - British,N,F,5,5,5,5,4,3
-445,Female,White - British,N,F,6,5,6,7,5,5
-446,Male,White - British,N,T,4,4,4,5,4,3
-447,Female,White - British,K,T,3,2,2,3,3,2
-448,Female,White - British,N,F,5,4,4,6,2,2
-449,Male,White - British,N,F,5,5,5,6,6,5
-450,Male,White - British,N,F,4,5,5,5,3,3
-451,Male,White - British,N,T,4,2,2,5,2,2
-452,Male,White - British,K,T,4,4,3,4,3,3
-453,Female,White - British,N,T,5,5,5,6,7,6
-454,Female,White - British,N,T,5,5,5,5,4,3
-455,Female,White - British,N,F,6,7,7,6,7,5
-456,Male,White - British,K,T,3,2,3,4,2,3
-457,Female,White - British,N,T,4,3,3,5,4,3
-458,Male,White - British,N,T,4,5,5,5,5,4
-459,Female,White - British,N,F,7,8,8,7,9,9
-460,Male,White - British,N,T,5,4,4,6,3,2
-461,Male,White - British,N,T,3,3,4,1,1,2
-462,Male,White - British,N,F,3,4,5,1,1,5
-463,Female,White - British,N,T,3,4,4,3,3,5
-464,Female,White - British,N,T,5,5,5,6,6,6
-465,Female,White - British,N,F,3,4,4,3,3,4
-466,Male,White - British,N,F,2,3,4,1,2,3
-467,Female,White - British,N,T,3,3,4,4,4,5
-468,Male,White - British,N,T,1,3,3,1,1,3
-469,Female,White - British,N,T,7,8,8,6,6,6
-470,Female,White - British,N,F,4,4,4,4,4,5
-471,Female,White - British,N,T,2,2,2,4,4,4
-472,Female,White - British,N,T,2,2,2,1,1,4
-473,Male,White - British,N,F,3,4,4,1,1,2
-474,Male,White - British,N,T,4,5,5,3,3,4
-475,Female,White - British,N,T,3,3,3,3,3,3
-476,Male,White - British,N,F,7,7,7,6,6,7
-477,Female,White - British,K,T,2,2,2,1,2,2
-478,Male,White - British,N,F,5,5,5,2,2,4
-479,Female,Any Other White Background,N,F,4,4,4,4,4,6
-480,Male,White - British,N,T,4,5,5,3,3,3
-481,Female,White - British,N,T,4,4,4,5,5,4
-482,Male,Any Other Mixed Background,N,T,3,4,4,4,4,4
-483,Female,Any Other Ethnic Group,N,T,3,4,4,3,3,5
-484,Female,White - British,N,T,2,3,3,2,3,5
-485,Female,White - British,N,F,3,4,4,4,4,3
-486,Female,White - British,N,F,2,3,3,1,1,3
-487,Male,White - British,N,T,3,3,3,1,1,3
-488,Female,White - British,N,F,6,7,7,6,6,7
-489,Male,White - British,N,T,3,4,4,3,3,4
-490,Female,White - British,N,T,5,5,5,5,5,5
-491,Male,White - British,N,T,1,3,3,1,1,3
-492,Male,White - British,N,F,3,5,5,3,3,4
-493,Female,White - British,N,T,3,3,3,4,4,4
-494,Male,White - British,N,T,3,3,3,5,4,3
-495,Male,White - British,N,F,4,5,5,3,3,4
-496,Male,White and Black African,N,T,4,5,5,3,3,3
-497,Male,White - British,N,T,3,4,4,1,1,3
-498,Female,White - British,N,T,2,3,3,4,4,5
-499,Male,White - British,N,T,5,5,5,5,5,5
-500,Male,White - British,N,F,3,4,4,3,3,4
-501,Female,White - British,N,T,3,3,3,2,2,5
-502,Female,White European,N,T,2,4,4,2,3,3
-503,Male,White - British,N,T,3,4,4,1,2,2
-504,Female,Information Not Yet Obtained,N,F,2,2,2,3,3,4
-505,Female,White - British,N,T,2,3,3,1,2,3
-506,Male,White - British,N,F,3,4,4,3,3,6
-507,Female,White - British,N,F,3,4,4,4,4,4
-508,Female,White - British,N,T,3,5,5,2,2,4
-509,Male,White - British,N,T,3,5,5,4,4,4
-510,Male,White - British,N,F,4,6,6,2,2,4
-511,Female,White - British,N,T,2,4,4,1,1,3
-512,Male,White - British,N,T,6,7,7,3,3,3
-513,Male,White - British,N,T,6,7,7,5,5,5
-514,Female,White - British,N,T,3,4,4,3,3,4
-515,Male,White - British,N,T,5,6,6,2,2,5
-516,Female,White - British,N,T,2,3,3,2,2,3
-517,Female,White - British,N,T,2,3,3,2,2,3
-518,Female,White - British,N,F,4,5,5,4,4,4
-519,Male,White - British,N,T,3,4,4,2,2,3
-520,Female,White - British,N,T,3,5,5,3,3,3
-521,Male,White - British,N,F,3,4,4,5,5,6
-522,Female,White - British,N,T,4,6,6,5,5,5
-523,Female,White - British,N,F,1,2,2,1,2,3
-524,Male,White - British,N,T,2,3,3,3,3,3
-525,Male,White - British,N,F,3,4,4,2,2,4
-526,Male,White - British,N,F,4,5,5,3,3,4
-527,Female,White - British,N,F,3,3,3,3,3,4
-528,Female,White - British,N,F,4,4,4,4,4,5
-529,Male,Any Other Mixed Background,N,T,1,2,2,2,3,4
-530,Female,White - British,N,F,5,5,6,6,6,6
-531,Female,White - British,N,F,2,3,3,3,3,4
-532,Male,White - British,N,T,3,3,3,2,2,2
-533,Male,White - British,N,F,6,6,6,4,4,5
-534,Female,White - British,N,T,3,4,4,4,5,6
-535,Female,White - British,N,T,1,1,1,1,2,3
-536,Male,White - British,N,F,3,5,5,3,3,5
-537,Female,White - British,N,T,4,6,6,5,5,6
-538,Male,White Other,N,F,5,6,6,4,4,6
-539,Female,White - British,N,F,1,2,2,1,1,2
-540,Female,White - British,N,T,1,3,3,2,2,6
-541,Female,White - British,N,T,2,2,2,2,2,3
-542,Male,White - British,K,T,3,3,3,1,1,2
-543,Male,White - British,N,T,4,5,5,5,5,7
-544,Female,White - British,N,F,3,5,5,6,6,5
-545,Male,White - British,N,F,2,2,2,2,2,3
-546,Female,White - British,N,F,2,4,4,2,4,5
-547,Female,White - British,N,T,1,2,2,3,3,3
-548,Female,White - British,N,T,3,4,4,2,3,4
-549,Female,White - British,N,T,2,2,2,2,4,5
+Pupil ID,Gender,Ethnicity,SEN,PP,Math_Mock_1 ,Math_Mock_2 ,Math_Result
+1,Male,White - British,K,T,5,5,5
+2,Female,White - British,N,F,5,5,4
+3,Female,White and Any Other Asian Background,N,F,8,9,9
+4,Female,White - British,N,F,5,4,5
+5,Female,White - British,N,F,2,2,3
+6,Female,White - British,N,F,4,4,3
+7,Female,White - British,N,T,5,5,5
+8,Female,White - British,N,F,6,7,8
+9,Female,White - British,N,T,3,4,4
+10,Female,White Other,N,F,4,4,4
+11,Female,White - British,N,F,4,4,4
+12,Female,White - British,N,T,5,4,4
+13,Male,White - British,K,T,1,1,1
+14,Female,White - British,K,T,2,3,2
+15,Female,White - British,N,T,4,4,4
+16,Female,Black Caribbean,K,T,6,6,6
+17,Female,White - British,K,T,1,2,2
+18,Female,White - British,N,T,4,3,3
+19,Female,White - British,N,F,7,7,7
+20,Male,White - British,K,T,5,5,5
+21,Male,White - British,N,F,4,4,5
+22,Male,White - British,N,F,3,3,3
+23,Female,White - British,N,T,4,4,4
+24,Female,White - British,K,F,4,4,5
+25,Female,White - British,N,F,7,7,7
+26,Male,White - British,N,T,6,6,6
+27,Male,White - British,K,T,1,1,2
+28,Male,White - British,N,F,6,6,7
+29,Female,White - British,N,F,4,4,4
+30,Female,White - British,N,T,7,6,6
+31,Female,White - British,N,T,6,6,5
+32,Male,White - British,N,F,8,8,8
+33,Female,White - British,N,T,4,4,5
+34,Female,White - British,N,T,3,3,4
+35,Female,White - British,N,T,3,3,4
+36,Female,White and Asian,N,T,7,7,7
+37,Male,White - British,N,F,7,8,8
+38,Male,White - British,K,F,1,1,2
+39,Female,White - British,N,T,3,2,3
+40,Male,White and Black African,K,F,7,5,7
+41,Female,White - British,N,F,7,8,8
+42,Female,White - British,N,F,4,4,4
+43,Male,White - British,K,T,1,1,1
+44,Male,Information Not Yet Obtained,N,T,4,4,4
+45,Male,White - British,N,F,4,2,3
+46,Female,Information Not Yet Obtained,N,T,2,3,3
+47,Male,White - British,N,T,6,6,6
+48,Female,Black - African,N,T,4,4,4
+49,Male,White - British,N,F,7,8,8
+50,Male,White - British,K,T,5,4,6
+51,Male,White - British,N,F,3,5,4
+52,Male,White - British,K,T,5,5,5
+53,Female,White - British,N,F,7,7,7
+54,Male,White - British,K,F,2,3,2
+55,Female,White - British,K,F,6,6,6
+56,Male,White - British,N,T,5,5,5
+57,Female,Any Other Asian Background,N,T,6,5,6
+58,Male,White - British,N,F,4,4,4
+59,Male,White - British,N,T,4,1,4
+60,Male,White - British,N,T,1,1,2
+61,Female,White - British,N,F,5,4,5
+62,Male,White - British,N,T,5,5,5
+63,Male,White - British,N,T,3,4,3
+64,Male,Any Other White Background,K,F,4,5,5
+65,Male,White - British,E,F,6,6,6
+66,Female,White - British,K,T,1,1,1
+67,Female,White - British,N,T,3,4,4
+68,Male,White - British,N,T,7,7,8
+69,Female,White - British,N,T,3,3,3
+70,Female,White - British,K,T,2,3,3
+71,Male,White - British,N,F,7,7,8
+72,Male,White - British,N,F,6,8,7
+73,Male,White - British,N,T,1,1,1
+74,Male,White - British,N,F,5,5,5
+75,Male,White - British,N,F,5,5,6
+76,Female,White - British,K,F,4,2,3
+77,Male,White - British,N,F,7,7,8
+78,Female,White - British,N,F,2,3,3
+79,Female,White - British,N,T,3,3,3
+80,Female,White - British,N,F,2,2,2
+81,Male,White - British,N,T,4,4,4
+82,Female,White - British,N,F,7,8,8
+83,Female,White - British,N,F,3,4,4
+84,Female,White - British,N,T,2,3,2
+85,Female,White - British,N,T,3,4,4
+86,Female,White - British,K,T,1,1,1
+87,Female,White - British,N,F,4,5,4
+88,Female,White - British,N,F,5,5,5
+89,Female,White - British,K,T,4,5,5
+90,Male,White - British,N,T,6,7,7
+91,Male,White - British,N,F,5,6,6
+92,Male,Information Not Yet Obtained,E,F,2,2,2
+93,Female,White - British,N,T,5,6,5
+94,Female,White - British,N,F,5,5,5
+95,Male,White - British,N,T,4,5,5
+96,Female,White - British,N,T,4,4,5
+97,Female,White - British,N,T,4,5,4
+98,Male,White - British,N,F,5,5,5
+99,Male,White - British,N,F,3,3,3
+100,Female,White - British,N,T,3,4,4
+101,Female,White - British,N,T,2,3,3
+102,Male,Any Other Mixed Background,N,T,5,7,8
+103,Female,Information Not Yet Obtained,N,T,2,1,2
+104,Male,White - British,N,F,5,6,6
+105,Male,White - British,N,F,6,6,6
+106,Male,White - British,N,T,4,6,8
+107,Male,White - British,N,T,4,4,4
+108,Female,White - British,N,T,4,4,2
+109,Female,White - British,N,F,5,6,6
+110,Male,White - British,N,T,6,7,7
+111,Female,White - British,K,F,3,2,2
+112,Male,White Other,N,F,3,3,3
+113,Male,White - British,N,T,7,7,8
+114,Female,White - British,N,F,7,7,7
+115,Male,White - British,N,F,5,6,7
+116,Male,White - British,N,T,7,8,8
+117,Female,White - British,N,F,5,5,5
+118,Male,White - British,N,F,5,5,5
+119,Female,White - British,N,T,4,5,5
+120,Female,White - British,N,F,1,2,1
+121,Female,White - British,K,F,4,4,4
+122,Male,Any Other Asian Background,K,F,3,4,3
+123,Male,White - British,N,F,4,5,4
+124,Female,White - British,N,F,3,4,4
+125,Female,White - British,N,T,1,1,2
+126,Female,White - British,N,F,4,3,4
+127,Male,White - British,K,T,2,1,2
+128,Male,White - British,N,F,4,5,4
+129,Female,White - British,N,T,5,6,6
+130,Female,White - British,N,F,2,3,3
+131,Female,White - British,N,F,6,6,6
+132,Male,White - British,N,T,4,4,4
+133,Female,White - British,K,T,8,9,9
+134,Male,White and Black African,N,F,6,6,6
+135,Male,White - British,N,F,4,5,5
+136,Male,White - British,N,F,6,6,7
+137,Female,White - British,N,F,5,6,6
+138,Female,White - British,N,F,5,5,5
+139,Male,White - British,N,F,6,7,7
+140,Male,White - British,N,T,4,5,4
+141,Female,White - British,N,T,4,4,4
+142,Female,White - British,N,T,4,5,5
+143,Female,White - British,N,T,2,2,3
+144,Male,White - British,N,F,6,7,7
+145,Male,White - British,N,F,4,4,3
+146,Female,White - British,N,T,6,7,7
+147,Male,White - British,N,F,6,7,7
+148,Female,Information Not Yet Obtained,N,T,7,8,8
+149,Male,White - British,N,T,7,7,8
+150,Male,White - British,N,T,4,4,3
+151,Male,White - British,N,T,4,3,3
+152,Female,White - British,N,T,6,6,6
+153,Female,White - British,N,T,7,7,7
+154,Male,White - British,K,F,2,2,2
+155,Female,White - British,N,F,6,6,7
+156,Male,White - British,N,F,4,6,5
+157,Female,White - British,N,F,5,6,5
+158,Male,White - British,N,F,7,8,8
+159,Female,White - British,K,T,5,4,4
+160,Female,White - British,N,T,5,6,6
+161,Male,White - British,N,T,6,6,6
+162,Female,White - British,N,T,3,1,3
+163,Male,White - British,N,F,5,5,5
+164,Female,Information Not Yet Obtained,K,T,1,1,1
+165,Male,White - British,N,F,6,6,7
+166,Female,White - British,N,F,2,1,2
+167,Male,White - British,N,T,4,5,4
+168,Male,White - British,N,F,7,7,8
+169,Female,White - British,N,T,5,6,5
+170,Female,Information Not Yet Obtained,N,T,5,5,4
+171,Male,White - British,K,T,3,4,4
+172,Male,White and Black African,N,T,6,6,7
+173,Female,White - British,N,T,3,4,4
+174,Male,Black - African,N,F,5,5,5
+175,Female,White - British,N,F,3,4,5
+176,Male,White and Black Caribbean,N,F,3,4,4
+177,Male,White - British,N,F,3,4,4
+178,Female,White - British,N,T,7,8,8
+179,Female,White - British,N,T,4,5,5
+180,Female,White - British,N,F,2,3,3
+181,Male,White - British,N,T,1,2,2
+182,Female,White - British,N,T,3,4,4
+183,Male,White - British,K,T,1,2,2
+184,Female,White - British,N,T,3,4,3
+185,Male,White - British,N,T,4,5,5
+186,Male,White - British,K,T,4,5,5
+187,Female,White - British,N,F,5,5,5
+188,Male,White - British,N,T,3,4,4
+189,Female,White - British,N,T,1,2,1
+190,Female,White - British,N,T,6,7,7
+191,Female,White - British,K,F,2,3,4
+192,Male,White - British,N,T,4,4,4
+193,Male,White - British,N,F,2,3,3
+194,Female,White - British,N,F,2,3,3
+195,Female,White - British,N,F,3,4,4
+196,Female,White - British,N,T,2,3,3
+197,Female,White - British,N,T,4,4,4
+198,Female,Any Other White Background,N,F,7,8,8
+199,Female,White - British,N,F,5,5,5
+200,Female,White - British,N,T,5,5,5
+201,Male,White - British,K,T,4,5,5
+202,Male,White - British,N,T,5,5,5
+203,Male,White - British,N,F,5,5,5
+204,Female,Any Other White Background,N,F,4,5,5
+205,Male,White - British,N,F,2,3,2
+206,Male,White - British,N,T,4,5,5
+207,Male,White - British,K,F,2,3,3
+208,Female,White - British,N,T,1,2,3
+209,Male,White - British,N,T,2,3,3
+210,Male,White - British,N,T,5,5,5
+211,Female,White - British,N,F,7,8,8
+212,Female,White - British,N,T,5,5,5
+213,Female,White - British,N,T,7,7,7
+214,Female,White - British,N,T,2,3,4
+215,Male,White - British,N,T,3,4,4
+216,Female,White - British,E,T,2,3,3
+217,Male,White - British,K,T,3,3,5
+218,Male,White - British,N,F,6,7,7
+219,Male,White - British,N,T,5,6,6
+220,Female,White - British,N,T,4,5,5
+221,Male,White - British,N,F,4,4,5
+222,Male,White - British,N,F,5,5,5
+223,Female,White - British,N,F,5,5,5
+224,Female,White - British,N,F,6,6,7
+225,Female,White - British,N,T,4,5,5
+226,Male,White and Black Caribbean,N,F,5,6,6
+227,Female,White - British,N,F,6,7,7
+228,Female,White - British,N,F,3,5,4
+229,Male,White - British,N,F,6,7,7
+230,Female,Any Other White Background,N,F,3,4,3
+231,Male,White - British,N,T,1,2,2
+232,Female,White - British,N,F,3,4,4
+233,Female,White Other,N,F,6,6,6
+234,Female,White and Black African,N,F,4,5,5
+235,Female,White - British,N,F,5,5,5
+236,Male,White - British,K,F,2,3,3
+237,Male,White - British,N,F,5,5,5
+238,Male,White - British,N,F,3,4,4
+239,Female,White - British,N,F,3,4,4
+240,Male,White - British,E,T,4,5,3
+241,Female,Black - African,N,T,4,5,5
+242,Male,White - British,N,T,7,7,8
+243,Female,White - British,N,T,4,5,5
+244,Male,White - British,N,F,5,5,5
+245,Male,White - British,N,F,6,6,7
+246,Male,White - British,N,T,2,3,3
+247,Male,White - British,N,T,4,4,4
+248,Female,White - British,N,T,5,6,6
+249,Female,White - British,N,F,2,3,3
+250,Male,White - British,N,F,4,5,5
+251,Male,White - British,N,F,5,5,5
+252,Male,White - British,N,F,6,7,6
+253,Female,White - British,N,F,3,4,4
+254,Male,White - British,N,F,3,4,3
+255,Male,White - British,N,T,5,6,6
+256,Male,White - British,N,T,5,5,5
+257,Male,White - British,N,F,2,3,3
+258,Male,White - British,N,T,2,3,3
+259,Male,White - British,N,T,4,5,5
+260,Male,White - British,E,T,6,6,6
+261,Female,White - British,N,F,4,5,5
+262,Female,White - British,N,F,3,4,4
+263,Female,White - British,N,F,6,7,7
+264,Male,Information Not Yet Obtained,N,F,2,3,3
+265,Male,White - British,N,F,7,7,7
+266,Female,White - British,N,T,3,3,4
+267,Female,White - British,N,F,7,7,7
+268,Female,White - British,N,F,6,6,6
+269,Male,Refused,N,F,2,3,2
+270,Female,White - British,N,F,3,4,4
+271,Female,White - British,N,T,2,3,4
+272,Female,White - British,N,T,3,4,4
+273,Female,White - British,N,T,3,4,4
+274,Female,Information Not Yet Obtained,N,T,5,5,5
+275,Male,Any Other White Background,N,T,5,3,5
+276,Male,White - British,N,T,6,5,6
+277,Male,Any Other White Background,N,F,4,2,5
+278,Male,White - British,N,F,3,2,4
+279,Female,White - British,N,F,2,1,2
+280,Female,White - British,N,T,4,2,4
+281,Male,Turkish,N,F,5,3,5
+282,Female,White and Black African,N,T,3,2,4
+283,Male,White - British,N,F,4,3,5
+284,Male,White - British,K,F,1,1,3
+285,Male,White - British,N,F,5,3,5
+286,Male,White - British,N,F,4,2,3
+287,Male,White - British,K,F,2,1,3
+288,Female,White - British,N,T,8,7,8
+289,Male,White - British,N,F,5,3,4
+290,Female,White - British,N,F,5,3,5
+291,Female,White - British,N,F,3,2,4
+292,Female,White - British,N,F,4,2,5
+293,Female,White - British,N,T,6,5,6
+294,Male,White - British,N,F,5,3,5
+295,Female,White - British,K,T,1,1,1
+296,Male,White - British,N,T,2,1,2
+297,Female,White - British,K,T,2,1,2
+298,Female,Any Other White Background,N,T,7,6,9
+299,Male,White - British,N,F,5,3,5
+300,Female,Information Not Yet Obtained,N,T,2,1,2
+301,Female,White and Black African,K,F,2,1,2
+302,Female,White - British,N,F,5,3,5
+303,Male,White - British,N,T,5,3,5
+304,Male,White - British,N,T,4,2,4
+305,Female,Information Not Yet Obtained,N,F,4,2,4
+306,Female,White - British,N,F,3,2,5
+307,Female,White - British,N,F,3,2,3
+308,Female,White - British,N,F,3,2,4
+309,Female,White - British,N,T,3,2,3
+310,Male,White - British,N,T,6,5,7
+311,Male,White - British,N,F,4,2,4
+312,Male,White - British,N,F,9,9,9
+313,Male,White - British,N,F,3,2,2
+314,Male,White - British,N,F,3,2,4
+315,Male,White - British,N,F,5,4,6
+316,Male,White - British,N,F,3,2,4
+317,Female,White - British,N,F,4,2,4
+318,Female,White - British,N,T,8,8,9
+319,Male,White - British,N,F,4,2,4
+320,Female,White - British,N,F,7,6,9
+321,Male,Any Other White Background,N,F,2,1,1
+322,Male,Information Not Yet Obtained,N,F,3,1,3
+323,Male,White - British,N,T,5,3,5
+324,Female,White - British,K,T,2,1,1
+325,Female,White - British,N,F,4,2,5
+326,Female,White - British,N,T,3,2,4
+327,Female,White - British,N,T,5,4,6
+328,Female,White - British,N,F,3,1,3
+329,Female,White - British,N,F,3,2,4
+330,Male,White - British,N,T,8,7,9
+331,Female,White European,N,F,3,1,3
+332,Female,White - British,N,F,5,4,5
+333,Male,White - British,N,F,4,3,5
+334,Male,White - British,N,T,6,5,7
+335,Male,White - British,N,T,4,3,5
+336,Female,White - British,N,F,7,5,7
+337,Female,Any Other Asian Background,N,T,6,5,6
+338,Female,White - British,N,F,3,2,3
+339,Female,White - British,E,F,5,4,5
+340,Male,White - British,N,F,9,8,9
+341,Female,White and Black African,N,T,3,2,3
+342,Male,White - British,N,T,7,6,7
+343,Female,White - British,N,F,3,2,4
+344,Male,White - British,N,T,5,3,5
+345,Female,White - British,N,F,5,3,5
+346,Female,White - British,N,T,8,7,8
+347,Female,Information Not Yet Obtained,N,T,5,3,4
+348,Male,White - British,N,F,6,5,6
+349,Female,White - British,N,F,6,5,7
+350,Female,White - British,N,F,4,2,4
+351,Male,White - British,K,F,3,2,3
+352,Male,Any Other Mixed Background,N,F,4,3,5
+353,Female,White - British,N,F,7,6,7
+354,Male,White - British,N,F,6,5,6
+355,Female,White - British,N,T,2,1,3
+356,Female,White - British,N,T,3,2,3
+357,Female,White - British,N,F,4,2,4
+358,Male,White - British,N,F,7,5,8
+359,Female,White - British,N,F,5,3,5
+360,Female,White - British,N,T,4,3,5
+361,Male,White - British,K,T,3,2,3
+362,Male,White - British,N,F,4,2,5
+363,Female,White - British,N,T,8,7,9
+364,Male,White - British,N,T,5,3,5
+365,Female,White - British,N,F,5,3,5
+366,Male,White - British,N,T,5,4,5
+367,Female,White - British,N,F,3,1,3
+368,Female,White - British,N,T,2,1,2
+369,Male,White - British,N,F,7,6,7
+370,Male,Information Not Yet Obtained,N,F,3,1,2
+371,Male,White - British,N,F,4,3,5
+372,Male,White - British,N,F,8,7,9
+373,Female,White - British,N,T,3,1,3
+374,Male,White - British,N,F,3,2,3
+375,Male,White - British,N,T,5,3,5
+376,Male,Any Other Mixed Background,N,T,7,6,8
+377,Female,Any Other Mixed Background,N,T,3,3,2
+378,Male,Refused,N,T,5,5,4
+379,Female,White - British,N,T,5,5,5
+380,Female,White - British,N,T,3,2,3
+381,Female,White - British,N,T,5,5,4
+382,Female,White - British,N,F,4,4,4
+383,Female,White - British,N,T,5,4,4
+384,Male,White - British,N,F,5,5,5
+385,Male,White - British,N,F,2,1,1
+386,Female,White - British,N,T,3,2,3
+387,Male,White - British,N,T,4,1,1
+388,Female,White - British,N,F,5,5,5
+389,Female,White - British,K,T,4,1,2
+390,Male,White - British,N,T,3,2,2
+391,Male,White - British,N,T,5,3,3
+392,Female,White - British,K,T,4,1,1
+393,Male,White - British,N,F,4,3,3
+394,Male,White - British,N,T,6,7,7
+395,Male,White - British,N,F,6,5,5
+396,Male,White - British,N,F,6,6,7
+397,Female,White - British,N,T,7,5,4
+398,Male,White - British,N,T,5,7,7
+399,Female,White - British,N,F,4,5,4
+400,Male,White - British,N,F,4,3,4
+401,Female,White - British,N,T,4,2,1
+402,Male,White - British,N,T,4,4,4
+403,Male,White - British,N,F,6,5,5
+404,Male,White - British,N,F,6,6,6
+405,Female,White - British,N,F,4,1,1
+406,Female,White - British,N,F,4,2,1
+407,Male,Any Other White Background,N,T,6,8,8
+408,Male,White - British,K,T,4,3,3
+409,Female,White - British,E,T,2,1,2
+410,Female,White - British,N,T,5,5,5
+411,Female,White - British,N,F,6,5,5
+412,Male,White - British,N,T,4,3,4
+413,Male,White - British,N,F,7,7,7
+414,Female,White - British,N,F,6,4,4
+415,Male,White - British,K,T,4,4,4
+416,Male,White - British,N,T,4,4,5
+417,Male,White - British,K,T,3,1,1
+418,Male,Information Not Yet Obtained,N,F,4,4,4
+419,Female,White - British,N,F,4,4,3
+420,Female,White - British,N,F,4,3,2
+421,Male,White - British,N,F,3,2,2
+422,Female,White - British,N,T,4,2,2
+423,Male,White - British,N,F,4,5,4
+424,Female,White - British,N,F,3,2,1
+425,Male,White - British,N,F,6,7,7
+426,Female,White - British,N,T,7,7,6
+427,Male,White and Black Caribbean,N,T,5,4,4
+428,Male,White - British,N,F,4,3,3
+429,Female,White - British,N,T,4,4,4
+430,Male,White - British,N,T,4,2,1
+431,Male,White - British,N,T,4,4,4
+432,Male,White - British,N,F,4,5,4
+433,Female,White - British,N,F,6,4,5
+434,Male,White - British,N,F,6,5,5
+435,Female,White - British,N,F,4,4,5
+436,Female,White - British,N,T,4,4,4
+437,Female,White - British,N,T,6,5,5
+438,Male,White - British,N,T,4,5,4
+439,Female,White - British,N,T,4,3,3
+440,Female,Information Not Yet Obtained,N,T,4,3,3
+441,Female,White - British,N,F,5,3,2
+442,Female,White - British,N,T,5,5,5
+443,Male,White - British,N,T,3,1,1
+444,Male,White - British,N,F,5,5,5
+445,Female,White - British,N,F,6,5,6
+446,Male,White - British,N,T,4,4,4
+447,Female,White - British,K,T,3,2,2
+448,Female,White - British,N,F,5,4,4
+449,Male,White - British,N,F,5,5,5
+450,Male,White - British,N,F,4,5,5
+451,Male,White - British,N,T,4,2,2
+452,Male,White - British,K,T,4,4,3
+453,Female,White - British,N,T,5,5,5
+454,Female,White - British,N,T,5,5,5
+455,Female,White - British,N,F,6,7,7
+456,Male,White - British,K,T,3,2,3
+457,Female,White - British,N,T,4,3,3
+458,Male,White - British,N,T,4,5,5
+459,Female,White - British,N,F,7,8,8
+460,Male,White - British,N,T,5,4,4
+461,Male,White - British,N,T,3,3,4
+462,Male,White - British,N,F,3,4,5
+463,Female,White - British,N,T,3,4,4
+464,Female,White - British,N,T,5,5,5
+465,Female,White - British,N,F,3,4,4
+466,Male,White - British,N,F,2,3,4
+467,Female,White - British,N,T,3,3,4
+468,Male,White - British,N,T,1,3,3
+469,Female,White - British,N,T,7,8,8
+470,Female,White - British,N,F,4,4,4
+471,Female,White - British,N,T,2,2,2
+472,Female,White - British,N,T,2,2,2
+473,Male,White - British,N,F,3,4,4
+474,Male,White - British,N,T,4,5,5
+475,Female,White - British,N,T,3,3,3
+476,Male,White - British,N,F,7,7,7
+477,Female,White - British,K,T,2,2,2
+478,Male,White - British,N,F,5,5,5
+479,Female,Any Other White Background,N,F,4,4,4
+480,Male,White - British,N,T,4,5,5
+481,Female,White - British,N,T,4,4,4
+482,Male,Any Other Mixed Background,N,T,3,4,4
+483,Female,Any Other Ethnic Group,N,T,3,4,4
+484,Female,White - British,N,T,2,3,3
+485,Female,White - British,N,F,3,4,4
+486,Female,White - British,N,F,2,3,3
+487,Male,White - British,N,T,3,3,3
+488,Female,White - British,N,F,6,7,7
+489,Male,White - British,N,T,3,4,4
+490,Female,White - British,N,T,5,5,5
+491,Male,White - British,N,T,1,3,3
+492,Male,White - British,N,F,3,5,5
+493,Female,White - British,N,T,3,3,3
+494,Male,White - British,N,T,3,3,3
+495,Male,White - British,N,F,4,5,5
+496,Male,White and Black African,N,T,4,5,5
+497,Male,White - British,N,T,3,4,4
+498,Female,White - British,N,T,2,3,3
+499,Male,White - British,N,T,5,5,5
+500,Male,White - British,N,F,3,4,4
+501,Female,White - British,N,T,3,3,3
+502,Female,White European,N,T,2,4,4
+503,Male,White - British,N,T,3,4,4
+504,Female,Information Not Yet Obtained,N,F,2,2,2
+505,Female,White - British,N,T,2,3,3
+506,Male,White - British,N,F,3,4,4
+507,Female,White - British,N,F,3,4,4
+508,Female,White - British,N,T,3,5,5
+509,Male,White - British,N,T,3,5,5
+510,Male,White - British,N,F,4,6,6
+511,Female,White - British,N,T,2,4,4
+512,Male,White - British,N,T,6,7,7
+513,Male,White - British,N,T,6,7,7
+514,Female,White - British,N,T,3,4,4
+515,Male,White - British,N,T,5,6,6
+516,Female,White - British,N,T,2,3,3
+517,Female,White - British,N,T,2,3,3
+518,Female,White - British,N,F,4,5,5
+519,Male,White - British,N,T,3,4,4
+520,Female,White - British,N,T,3,5,5
+521,Male,White - British,N,F,3,4,4
+522,Female,White - British,N,T,4,6,6
+523,Female,White - British,N,F,1,2,2
+524,Male,White - British,N,T,2,3,3
+525,Male,White - British,N,F,3,4,4
+526,Male,White - British,N,F,4,5,5
+527,Female,White - British,N,F,3,3,3
+528,Female,White - British,N,F,4,4,4
+529,Male,Any Other Mixed Background,N,T,1,2,2
+530,Female,White - British,N,F,5,5,6
+531,Female,White - British,N,F,2,3,3
+532,Male,White - British,N,T,3,3,3
+533,Male,White - British,N,F,6,6,6
+534,Female,White - British,N,T,3,4,4
+535,Female,White - British,N,T,1,1,1
+536,Male,White - British,N,F,3,5,5
+537,Female,White - British,N,T,4,6,6
+538,Male,White Other,N,F,5,6,6
+539,Female,White - British,N,F,1,2,2
+540,Female,White - British,N,T,1,3,3
+541,Female,White - British,N,T,2,2,2
+542,Male,White - British,K,T,3,3,3
+543,Male,White - British,N,T,4,5,5
+544,Female,White - British,N,F,3,5,5
+545,Male,White - British,N,F,2,2,2
+546,Female,White - British,N,F,2,4,4
+547,Female,White - British,N,T,1,2,2
+548,Female,White - British,N,T,3,4,4
+549,Female,White - British,N,T,2,2,2
