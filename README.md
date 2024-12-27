@@ -1,6 +1,6 @@
 # Project Dataset
 
-This repository contains the dataset used for our research. The dataset is stored in the [`ProjectData.csv`](ProjectData.csv) file.
+This repository contains the dataset used for a research project.
 
 ## Dataset Description
 
